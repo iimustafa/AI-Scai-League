@@ -25,8 +25,8 @@ We use a **MobileNet + BiLSTM** architecture to:
 - Classify crowd behavior over time.
 
 ### 📊 Model Performance
-- **Training Accuracy:** ~95%
-- **Validation Accuracy:** ~90%
+- **Training Accuracy:** ~93%
+- **Validation Accuracy:** ~85%
 - **Loss Function:** Binary Crossentropy
 
 ## 🛠️ Tools & Tech
