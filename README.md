@@ -3,7 +3,7 @@
 **Track:** Smart Stadiums and Fan Experience  
 **Team:** Muraqib - مُراقب  
 **Members:** Mustafa Al Ali, Yasmin Al Suliman, Yousif Al Nasser, Bader Al Fakhri
-**Challenge:** AI SCAI League (2025)
+        **Challenge:** AI SCAI League (2025)
 
 ## 📌 Overview
 Muraqib is an AI-powered system designed to monitor stadium crowds to:
