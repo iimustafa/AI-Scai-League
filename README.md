@@ -7,7 +7,6 @@
 - Yasmin Al Suliman
 - Yousif Al Nasser
 - Bader Al Fakhri
-
 **Challenge:** AI SCAI League (2025)
 
 
