@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Muraqib - SCAI AI League Project
+# 🕵️‍♂️ Muraqib - AI SCAI League Project
 
 **Track:** Smart Stadiums and Fan Experience  
 **Team:** Muraqib - مُراقب  
