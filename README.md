@@ -32,6 +32,26 @@ We use a **MobileNet + BiLSTM** architecture to:
 - `README.md` – this file
 - `requirements.txt` – for dependencies
 
+## 🗃️ Dataset
+
+The dataset used for this project is the **Violence Detection Dataset**, available on Kaggle. It contains images and videos labeled for violence detection in various settings, which are ideal for training and testing the model to detect violence and abnormal actions in stadiums. 🎥📸
+
+### Dataset Details:
+- **Source:** [Violence Detection Dataset on Kaggle](https://www.kaggle.com/datasets/engmohamedsshubber/violencedetectiondataset) 🌐
+- **Format:** Video files (MP4), Image files (JPEG) 🎞️
+- **Size:** 1.1GB 📊
+- **Features:**
+  - **Violence detection:** Contains labeled instances of violent behavior, including various types of violent actions. 💥
+
+### Preprocessing:
+- Videos are processed frame by frame. 🎬
+- Images are resized and normalized for model input. 📏
+- Annotations include labeled instances of violence and normal fan behavior. 🏷️
+
+### How to Access:
+You can download the dataset from [Violence Detection Dataset on Kaggle](https://www.kaggle.com/datasets/engmohamedsshubber/violencedetectiondataset). Make sure to follow the appropriate steps for accessing and using the dataset according to Kaggle's terms and conditions. 📥
+
+
 ## 🚀 Getting Started
 1. Clone the repo:
    ```bash
