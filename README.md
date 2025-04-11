@@ -39,7 +39,7 @@ The dataset used for this project is the **Violence Detection Dataset**, availab
 ### Dataset Details:
 - **Source:** [Violence Detection Dataset on Kaggle](https://www.kaggle.com/datasets/engmohamedsshubber/violencedetectiondataset) 🌐
 - **Format:** Video files (MP4), Image files (JPEG) 🎞️
-- **Size:** 1.1GB 📊
+- **Size:** 1.1 GB 📊
 - **Features:**
   - **Violence detection:** Contains labeled instances of violent behavior, including various types of violent actions. 💥
 
@@ -55,5 +55,5 @@ You can download the dataset from [Violence Detection Dataset on Kaggle](https:/
 ## 🚀 Getting Started
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/muraqib-ai.git
+   git clone https://github.com/iimustafa/muraqib-ai.git
    cd muraqib-ai
